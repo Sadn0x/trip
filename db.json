@@ -1,0 +1,337 @@
+{
+  "popularDestinations": [
+    {
+      "id": 1,
+      "country": "Italy",
+      "city": "San Miguel",
+      "description": "Fusce hic augue velit wisi ips quibusdam pariatur, iusto.",
+      "image": "/images/italy.jpg",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "country": "Dubai",
+      "city": "Burj Khalifa",
+      "description": "Fusce hic augue velit wisi ips quibusdam pariatur, iusto..",
+      "image": "/images/dubai.jpg",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "country": "France",
+      "city": "Paris",
+      "description": "A cidade das luzes, conhecida pela Torre Eiffel e pelos museus.",
+      "image": "/images/france.jpg",
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "country": "Japan",
+      "city": "Kyoto Temple",
+      "description": "Fusce hic augue velit wisi ips quibusdam pariatur, iusto.",
+      "image": "/images/japan.jpg",
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "country": "Itália",
+      "city": "Roma",
+      "description": "Cidade histórica com monumentos icônicos como o Coliseu e o Vaticano.",
+      "image": "/images/rome.jpg",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "country": "Brasil",
+      "city": "Fortaleza",
+      "description": "Cidade histórica com belas praias conhecida como cidade da luz.",
+      "image": "/images/fortaleza.webp",
+      "rating": 5
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Experience the great holiday on beach",
+      "description": "Laoreet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque, cras, aspernatur.",
+      "number_of_days": "7D/6N",
+      "capacity": 10,
+      "location": "Malaysia",
+      "value": 750,
+      "number_of_reviews": 22,
+      "rating": 5,
+      "image": "./images/location1.jpg"
+    },
+    {
+      "title": "Mountain Adventure",
+      "description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+      "number_of_days": "5D/4N",
+      "capacity": 15,
+      "location": "Nepal",
+      "value": 600,
+      "number_of_reviews": 18,
+      "rating": 4.5,
+      "image": "./images/location2.jpg"
+    },
+    {
+      "title": "City Tour Experience",
+      "description": "Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.",
+      "number_of_days": "3D/2N",
+      "capacity": 20,
+      "location": "Paris, France",
+      "value": 450,
+      "number_of_reviews": 40,
+      "rating": 4.8,
+      "image": "./images/location3.jpg"
+    },
+    {
+      "title": "Safari Adventure",
+      "description": "Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "number_of_days": "7D/6N",
+      "capacity": 12,
+      "location": "Kenya",
+      "value": 1200,
+      "number_of_reviews": 25,
+      "rating": 4.9,
+      "image": "./images/location1.jpg"
+    },
+    {
+      "title": "Desert Exploration",
+      "description": "Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.",
+      "number_of_days": "4D/3N",
+      "capacity": 8,
+      "location": "Morocco",
+      "value": 550,
+      "number_of_reviews": 15,
+      "rating": 4.2,
+      "image": "./images/location2.jpg"
+    },
+    {
+      "title": "Cultural Heritage Tour",
+      "description": "Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.",
+      "number_of_days": "6D/5N",
+      "capacity": 30,
+      "location": "Japan",
+      "value": 800,
+      "number_of_reviews": 34,
+      "rating": 4.6,
+      "image": "./images/location3.jpg"
+    },
+    {
+      "title": "Tropical Island Retreat",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.",
+      "number_of_days": "8D/7N",
+      "capacity": 20,
+      "location": "Hawaii, USA",
+      "value": 1500,
+      "number_of_reviews": 45,
+      "rating": 5,
+      "image": "./images/location1.jpg"
+    },
+    {
+      "title": "Snowy Mountain Getaway",
+      "description": "Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "number_of_days": "6D/5N",
+      "capacity": 10,
+      "location": "Switzerland",
+      "value": 2000,
+      "number_of_reviews": 20,
+      "rating": 4.7,
+      "image": "./images/location2.jpg"
+    },
+    {
+      "title": "Rainforest Expedition",
+      "description": "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh.",
+      "number_of_days": "5D/4N",
+      "capacity": 12,
+      "location": "Amazon, Brazil",
+      "value": 900,
+      "number_of_reviews": 17,
+      "rating": 4.5,
+      "image": "./images/location3.jpg"
+    },
+    {
+      "title": "Countryside Escape",
+      "description": "Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.",
+      "number_of_days": "4D/3N",
+      "capacity": 25,
+      "location": "Tuscany, Italy",
+      "value": 700,
+      "number_of_reviews": 30,
+      "rating": 4.9,
+      "image": "./images/location1.jpg"
+    },
+    {
+      "title": "Historic City Tour",
+      "description": "Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada.",
+      "number_of_days": "3D/2N",
+      "capacity": 18,
+      "location": "Rome, Italy",
+      "value": 500,
+      "number_of_reviews": 22,
+      "rating": 4.3,
+      "image": "./images/location2.jpg"
+    },
+    {
+      "title": "Ocean Adventure",
+      "description": "Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui.",
+      "number_of_days": "5D/4N",
+      "capacity": 16,
+      "location": "Great Barrier Reef, Australia",
+      "value": 1100,
+      "number_of_reviews": 28,
+      "rating": 4.8,
+      "image": "./images/location1.jpg"
+    },
+    {
+      "title": "River Cruise",
+      "description": "Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris.",
+      "number_of_days": "7D/6N",
+      "capacity": 50,
+      "location": "Danube River, Europe",
+      "value": 1300,
+      "number_of_reviews": 35,
+      "rating": 4.7,
+      "image": "./images/location3.jpg"
+    },
+    {
+      "title": "Wilderness Retreat",
+      "description": "Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Fusce ac felis sit amet ligula pharetra condimentum.",
+      "number_of_days": "6D/5N",
+      "capacity": 14,
+      "location": "Alaska, USA",
+      "value": 1400,
+      "number_of_reviews": 16,
+      "rating": 4.6,
+      "image": "./images/location2.jpg"
+    },
+    {
+      "title": "Culinary Tour",
+      "description": "Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam.",
+      "number_of_days": "5D/4N",
+      "capacity": 20,
+      "location": "Barcelona, Spain",
+      "value": 800,
+      "number_of_reviews": 25,
+      "rating": 4.8,
+      "image": "./images/location1.jpg"
+    },
+    {
+      "title": "Island Hopping",
+      "description": "Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris.",
+      "number_of_days": "6D/5N",
+      "capacity": 12,
+      "location": "Philippines",
+      "value": 1000,
+      "number_of_reviews": 19,
+      "rating": 4.9,
+      "image": "./images/location2.jpg"
+    },
+    {
+      "title": "Cultural Festival",
+      "description": "Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.",
+      "number_of_days": "4D/3N",
+      "capacity": 50,
+      "location": "Rio de Janeiro, Brazil",
+      "value": 600,
+      "number_of_reviews": 38,
+      "rating": 4.5,
+      "image": "./images/location1.jpg"
+    },
+    {
+      "title": "Beachfront Relaxation",
+      "description": "Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.",
+      "number_of_days": "8D/7N",
+      "capacity": 20,
+      "location": "Maldives",
+      "value": 2000,
+      "number_of_reviews": 45,
+      "rating": 5,
+      "image": "./images/location2.jpg"
+    },
+    {
+      "title": "Hiking Adventure",
+      "description": "Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus.",
+      "number_of_days": "6D/5N",
+      "capacity": 15,
+      "location": "Patagonia, Chile",
+      "value": 1500,
+      "number_of_reviews": 20,
+      "rating": 4.7,
+      "image": "./images/location3.jpg"
+    }
+  ],
+  "specialPackages": [
+    {
+      "title": "Experience the great holiday on beach",
+      "description": "Laoreet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque, cras, aspernatur.",
+      "number_of_days": "7D/6N",
+      "capacity": 10,
+      "location": "Malaysia",
+      "value": 750,
+      "number_of_reviews": 22,
+      "rating": 5,
+      "image": "./images/location1.jpg",
+      "discount": 25
+    },
+    {
+      "title": "Mountain Adventure",
+      "description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+      "number_of_days": "5D/4N",
+      "capacity": 15,
+      "location": "Nepal",
+      "value": 600,
+      "number_of_reviews": 18,
+      "rating": 4.5,
+      "image": "./images/location2.jpg",
+      "discount": 17
+    },
+    {
+      "title": "City Tour Experience",
+      "description": "Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.",
+      "number_of_days": "3D/2N",
+      "capacity": 20,
+      "location": "Paris, France",
+      "value": 450,
+      "number_of_reviews": 40,
+      "rating": 4.8,
+      "image": "./images/location3.jpg",
+      "discount": 20
+    },
+    {
+      "title": "Safari Adventure",
+      "description": "Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "number_of_days": "7D/6N",
+      "capacity": 12,
+      "location": "Kenya",
+      "value": 1200,
+      "number_of_reviews": 25,
+      "rating": 4.9,
+      "image": "./images/location1.jpg",
+      "discount": 10
+    },
+    {
+      "title": "Desert Exploration",
+      "description": "Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.",
+      "number_of_days": "4D/3N",
+      "capacity": 8,
+      "location": "Morocco",
+      "value": 550,
+      "number_of_reviews": 15,
+      "rating": 4.2,
+      "image": "./images/location2.jpg",
+      "discount": 12
+    },
+    {
+      "title": "Cultural Heritage Tour",
+      "description": "Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.",
+      "number_of_days": "6D/5N",
+      "capacity": 30,
+      "location": "Japan",
+      "value": 800,
+      "number_of_reviews": 34,
+      "rating": 4.6,
+      "image": "./images/location3.jpg",
+      "discount": 8
+    }
+  ]
+}
