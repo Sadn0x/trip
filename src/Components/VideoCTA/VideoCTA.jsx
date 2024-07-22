@@ -28,7 +28,7 @@ export default function VideoCTA() {
         playsInline
         className="absolute top-0 left-0 w-full h-full object-cover"
       >
-        <source src="./videos/videocta.mp4" type="video/mp4" />
+        <source src="./videos/videocta2.mp4" type="video/mp4" />
         Your browser doesn't support MP4 videos.
       </video>
       <div className="absolute top-0 left-0 w-full h-full bg-black bg-opacity-70"></div>
